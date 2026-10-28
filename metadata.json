@@ -1,0 +1,6 @@
+{
+  "name": "智造雲 報工管理系統",
+  "description": "專業現場報工與工時追蹤管理系統，提供工單進度、工序起訖計時、良品與不良品回報、審核流程及產能稼動分析。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
